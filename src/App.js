@@ -1,6 +1,4 @@
 import {useState, useReducer } from 'react';
-import './App.css';
-
 function App() {
   const [number, setNumber] = useState(0)
 
